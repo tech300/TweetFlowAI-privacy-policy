@@ -1,8 +1,8 @@
-Privacy Policy for ScribeAI
+Privacy Policy for TweetFlowAI
 
 Last Updated: November 15, 2026
 
-ScribeAI (“we,” “our,” or “us”) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use the ScribeAI mobile application (the “App”). Please read this Privacy Policy carefully. By using the App, you agree to the collection and use of information in accordance with this policy.
+TweetFlowAI (“we,” “our,” or “us”) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use the ScribeAI mobile application (the “App”). Please read this Privacy Policy carefully. By using the App, you agree to the collection and use of information in accordance with this policy.
 
 1. Information We Collect
 
