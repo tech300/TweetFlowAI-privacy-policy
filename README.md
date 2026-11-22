@@ -1,2 +1,2 @@
-# scribeai-privacy-policy
+# TweetFlowAi-privacy-policy
 Privacy policy for my app
